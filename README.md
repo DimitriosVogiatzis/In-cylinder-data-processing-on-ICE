@@ -1,7 +1,7 @@
 ## Exp.-Data-Processing-on-ICE
 
 Experimental data from Internal Combustion Engines measurements need processing and analysis. 
-In this work, some useful tools for automation of thoses processes are presented. 
+In this work, some useful tools for automation of those processes are presented. 
 
 | requirements         | os        |
 | -------------------- | --------- |
