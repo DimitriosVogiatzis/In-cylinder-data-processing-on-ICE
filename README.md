@@ -9,5 +9,5 @@ In this work, some useful tools for automation of thoses processes are presented
 
 In detail:
 1. Misfire Identification
-2. Indicator 
+2. Combustion Indicator 
 3. BSFC map production from WOT measurements.
