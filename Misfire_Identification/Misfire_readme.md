@@ -1,5 +1,5 @@
 ## Script Description
-This script receives raw experimental data of combustion chamber pressure signal from an in-cylinder piezoelectric sensor on a 2-stroke engine and finds misfire events.
+This script receives raw experimental data of pressure signal from an in-cylinder pressure sensor on a 2-stroke engine and finds misfire events.
 According to the user-selected pressure limit "Pres_limit" for not-combustible expansion phase (while at downward movement of the piston), every crank-cycle without combustion is identified.
 
 Then, the motivo of consecutive combustions before each and every misfire is identified and presented in a normalized histogram. 
