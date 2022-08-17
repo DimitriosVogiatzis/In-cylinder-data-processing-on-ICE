@@ -1,6 +1,6 @@
 ## Exp.-Data-Processing-on-ICE
 
-Experimental data from Internal Combustion Engines measurements need processing and analysis. 
+Experimental data from in-cylinder Internal Combustion Engines measurements need processing and analysis. 
 In this work, some useful tools for automation of those processes are presented. 
 
 | requirements         | os        |
@@ -10,4 +10,3 @@ In this work, some useful tools for automation of those processes are presented.
 In detail:
 1. Misfire Identification
 2. Combustion Indicator 
-3. BSFC full Torque-Speed map production from WOT measurements.
