@@ -2,6 +2,7 @@
 This script receives raw experimental data of pressure signal from an in-cylinder pressure sensor on a 2-stroke engine and finds misfire events.
 According to the user-selected pressure limit "Pres_limit" for not-combustible expansion phase (while at downward movement of the piston), every crank-cycle without combustion is identified.
 ![untitled](https://user-images.githubusercontent.com/65401171/185071320-dc2e26b1-73e4-4ad9-a6bf-28a003e87f79.jpg)
+
 ![untitled2](https://user-images.githubusercontent.com/65401171/185071425-a4393ba0-b9ca-4ed4-b0a4-efb217e25dd2.jpg)
 
 Then, the motivo of consecutive combustions before each and every misfire is identified and presented in a normalized histogram. 
