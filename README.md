@@ -1,4 +1,4 @@
-## Exp.-Data-Processing-on-ICE
+## In-cylinder-data-processing-on-ICE
 
 Experimental data from in-cylinder Internal Combustion Engines measurements need processing and analysis. 
 In this work, some useful tools for automation of those processes are presented. 
