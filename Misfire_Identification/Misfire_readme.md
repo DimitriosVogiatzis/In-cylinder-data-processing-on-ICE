@@ -8,8 +8,8 @@ Finally the average number of consecutive combustions and it's standart deviatio
 ## Contributors:
 [Dimitrios Vogiatzis]
 
-## References - Acknowledgements
-This is a utility tool for my PhD research project at Technical University of Graz, Institute of Thermodynamics and Sustainable Propulsion Systems.
+## References 
+This is a utility tool created for my PhD research project at Technical University of Graz, Institute of Thermodynamics and Sustainable Propulsion Systems.
 
 ## Copyrights
 [Creative Commons]
