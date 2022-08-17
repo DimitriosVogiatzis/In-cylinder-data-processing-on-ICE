@@ -11,6 +11,7 @@ from:
 
 Then, the data is processed and synchronized with each other in order to produce the useful information.
 Finally the P-θ, P-V, P-V(log), P-V(only for compression), P-V(only for expansion), Wiebe progression-θ, dQ/dθ-θ(2nd order MA) dQ/dθ-θ and ΣQ-θ are created.
+Also, the indicated efficiency, real brake efficiency and mechanical efficiency are calculated.
 
 ![untitled](https://user-images.githubusercontent.com/65401171/185080053-b40913b1-271b-4861-9ec8-22129f74491e.jpg)
 ![untitled2](https://user-images.githubusercontent.com/65401171/185080081-d9613423-ed72-4ddc-92aa-c00d06e05fcd.jpg)
