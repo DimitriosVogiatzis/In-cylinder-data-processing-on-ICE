@@ -140,6 +140,6 @@ format long
     end
 
 %% Efficiency Rates
-    h_i=Wi/Qin;
-    h_b=Wb/Qin;
-    h_m=Wb/Wi;
+    etta_i=Wi/Qin;
+    etta_b=Wb/Qin;
+    etta_m=Wb/Wi;
