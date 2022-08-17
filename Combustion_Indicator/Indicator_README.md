@@ -4,7 +4,9 @@ This script receives raw testbench measurement data for an in-cylinder gasoline 
 2. pressure signal [V]
 3. crank-angle position [V] and TDC [V] 
 4. ignition advance timing [V] 
+
 from:
+
 1. an in-cylinder piezoelectric pressure sensor,
 2. an encoder position sensor for identifying the TDC and the crank angle position,
 3. an amprerometer for detecting the ignition activation.
