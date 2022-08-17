@@ -5,6 +5,11 @@ According to the user-selected pressure limit "Pres_limit" for not-combustible e
 Then, the motivo of consecutive combustions before each and every misfire is identified and presented in a normalized histogram. 
 Finally the average number of consecutive combustions and it's standart deviation are calculated.
 
+## How to use
+1. Load your pressure signal data to a matlab stuck at the same folder or use the default.
+2. Open the Pattern_misfire.m and set your pressure limit or use the default.
+3. Run the Pattern_misfire.m
+
 ## Contributors:
 [Dimitrios Vogiatzis]
 
