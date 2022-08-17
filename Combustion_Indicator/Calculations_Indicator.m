@@ -1,20 +1,22 @@
-%%%%%%%%%%%%% Dimitrios Vogiatzis, ICE Laboratory, AUTH %%%%%%%%%%%%%%%%%%%
+%%%%%% Dimitrios Vogiatzis, Thermodynamics and ICE Laboratory, AUTH %%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%% Indicator diagram production - AUTH 2017-2018 %%%%%%%%%%%%%%
-%%%%%% DATA ANALYSIS AND DIAGRAM PRODUCTION OF AN INDICATOR DIAGRAM %%%%%%%
+%%%%%%%%% Indicator diagram production - AUTH 2018, Thessaloniki %%%%%%%%%%
+%%%%%% DATA ANALYSIS AND DIAGRAM PRODUCTION OF AN INDICATOR DATASET %%%%%%%
 clear figure;
 clear all; clc;
 format long
 
 %% Read the data from excel
     dat = xlsread('1200rpm_87Nm.xlsx');
-    T=87;                                       %[Nm]
-    N=1200/60;                                  %[1/sec]
     time = dat(:,1);
     P_Volt = dat(:,2);
     Crank_Volt = dat(:,3);
     TDC_Volt = dat(:,4);
     Advance_Volt = dat(:,5);
+    
+    % Set your measurement point
+    T=87;                                       %[Nm]
+    N=1200/60;                                  %[1/sec]
 
 %% Find the spacing between 2 TDC (720 degrees)
     a=1;
